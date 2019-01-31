@@ -1,0 +1,40 @@
+060 - More on Generators and Recursion
+-Array helpers like .map or .each do not work with generators
+
+
+059 - Generators with Recursion
+-Tree is a very popular data structure
+-Tree is everywhere in web development (see reddit!)
+
+058 - Complexities of Symbol.Iterator
+-By default, arrays have Symbol.iterator already set up for you for 'for of' loops
+-With object, you need to define Symbol.iterator yourself
+
+057 - Symbol.Iterator with Generators
+-Symbol iterator is a tool that teaches object how to respond to the for of loops
+
+056 - Delegation of Generators Continued
+-Creating one loop for two generators
+
+055 - Delegation of Generators
+-How to combine multiple generator together
+
+054 - A Practical Use of ES6 Generators
+-Generator is very useful for specific iteration to our data structure
+
+053 - The Big Reveal on ES6 Generators
+-Generators work properly with 'for of' loops
+-Example in sample code
+
+052 - Another Step in Our Generator Story
+-We can use yield multiple times
+
+051 - Generators With a Short Story
+-Simple analogy for explaining generators
+
+050 - Introduction to Generators
+-Generators are the most brain bending feature of the JS ES6
+-Generator is a function that can be enter and exit multiple times, when we enter it again, we are on the line where we left it.
+
+049 - One Quick Thing For...Of Loops
+-Code example for the 'for of' loops
